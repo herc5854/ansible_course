@@ -1,0 +1,2 @@
+# Managed by Ansible
+david ALL=(ALL) NOPASSWD: ALL
